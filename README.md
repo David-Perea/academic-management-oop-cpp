@@ -15,6 +15,8 @@ A C++ console application that models an academic registry system using Object-O
 
 ## How to Build & Run
 
+## How to Build & Run
+
 1. Clone the repository:
    ```bash
    git clone [https://github.com/David-Perea/academic-management-oop-cpp.git](https://github.com/David-Perea/academic-management-oop-cpp.git)
